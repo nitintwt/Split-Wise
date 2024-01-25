@@ -69,9 +69,7 @@ export function Payment({ className, ...props }) {
         </div>
       </CardContent>
       <CardFooter>
-        <Button className="w-full">
-          <CheckIcon className="mr-2 h-4 w-4" /> Mark all as read
-        </Button>
+
       </CardFooter>
     </Card>
   )
